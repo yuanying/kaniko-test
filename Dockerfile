@@ -1,3 +1,3 @@
-FROM FROM debian:stretch
+FROM debian:stretch
 
 CMD ["echo", "OK"]
